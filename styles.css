@@ -1,0 +1,61 @@
+
+body {
+    -webkit-font-smoothing: antialiased; /* Yazilari daha dumanli yapiyor.*/
+}
+
+.w3-container {
+    margin-left: 20%;
+    margin-right:20%;
+    text-align: center;
+}
+
+.banner{ /*burasi beni inanilmaz yordu*/
+    width: 1605px;
+}
+
+.centerImg {
+    text-align: center;
+}
+
+q {
+    font-style: italic;
+    color: rgb(91, 91, 91);
+  }
+
+a:link {
+color: rgb(120, 147, 221);
+}
+
+a:visited {
+color: rgb(115, 194, 154);
+}
+
+a:hover {
+color: rgb(218, 103, 124);
+}
+
+/* table , th, td {
+    padding: 20px;
+    margin: 20px;
+
+} */
+
+table, th, td {
+    border-collapse: collapse;
+}
+
+  th, td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+th {
+    background-color: #ffd05e;
+}
+
+.w3-panel {
+    margin-left: 20%;
+    margin-right:20%;
+}
